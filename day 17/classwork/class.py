@@ -11,7 +11,7 @@ for i in range(5):
         
 print(odd_list)
 print(even_list)
-[11:53 AM]
+
 odd_list = []
 even_list = []
 

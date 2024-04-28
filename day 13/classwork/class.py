@@ -8,8 +8,7 @@ else:
     print("you are old")
 
 
-
- number = float(input("Please enter number: "))
+number = float(input("Please enter number: "))
 
 if number > 0:
     print("Number is positive")
